@@ -1,0 +1,17 @@
+{
+  "name": "test",
+  "authors": [
+    "marhabac33 <marhabac33@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0",
+    "magnific-popup": "^1.1.0",
+    "scrollreveal": "^3.3.5"
+  }
+}
