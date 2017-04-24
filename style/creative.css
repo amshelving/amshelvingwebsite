@@ -149,7 +149,7 @@ header .header-content .header-content-inner p {
     -webkit-transform: translateY(-50%);
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
-    padding: 25px 50px 10px 25px;
+    padding: 25px 25px 10px 25px;
   }
   header .header-content .header-content-inner {
     max-width: 1000px;
