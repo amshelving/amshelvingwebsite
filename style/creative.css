@@ -296,6 +296,7 @@ fieldset[disabled] .btn-primary.active {
 
 #logo{
   content: url('../media/logo.png');
+  padding-bottom: 50px;
 }
 
 
@@ -385,4 +386,8 @@ fieldset[disabled] .btn-primary.active {
 .footer_item{
   padding-left: 1%;
   padding-right: 1%;
+}
+
+img {
+    image-orientation: from-image;
 }
